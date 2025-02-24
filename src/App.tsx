@@ -844,7 +844,7 @@ const DislipidemiaStudy = () => {
         >
           <Heart className="w-4 h-4" />
           Riscos
-        </Tab>
+        </Tab>  
         <Tab
           active={activeTab === 'tratamento'}
           onClick={() => setActiveTab('tratamento')}
